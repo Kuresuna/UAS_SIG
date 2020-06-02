@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".DetailActivity">
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="250dp"
+        android:id="@+id/img_data" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_nama"
+        android:layout_below="@+id/img_data"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Nama" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_alamat"
+        android:layout_below="@+id/txt_nama"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Alamat" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_deskripsi"
+        android:layout_below="@+id/txt_alamat"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Deskripsi" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_go"
+        android:layout_below="@+id/txt_deskripsi"
+        android:text="Go"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_back"
+        android:layout_below="@id/btn_go"
+        android:text="Back"
+        android:layout_marginTop="5dp"/>
+
+</RelativeLayout>
