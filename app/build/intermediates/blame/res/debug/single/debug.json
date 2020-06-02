@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_katedral.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\katedral.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home1.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\home1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_klenteng.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\klenteng.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\marker2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s6.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\s6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_masjid.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\masjid.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s1.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\s1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s5.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\s5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s3.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\s3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ss.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\ss.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pura.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\pura.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peta.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\peta.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gereja.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\gereja.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker1.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\marker1.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vihara.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\vihara.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker3.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\marker3.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s2.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\s2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marker.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s4.jpg.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\gis2\\app\\src\\main\\res\\drawable\\s4.jpg"
+    }
+]
